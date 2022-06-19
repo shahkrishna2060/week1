@@ -1,0 +1,23 @@
+# import keyword
+# print(keyword.kwlist)
+
+
+
+# this is the print statement
+# from unittest import result
+
+
+# print("hello python")
+
+
+# Variable a holds value 5
+# variable b holds value 10
+# variable c holds sum of a and b 
+# print the result
+# a = 5 
+# b =10
+# c= a+b
+# print ("the sum is ;",c)
+
+
+
